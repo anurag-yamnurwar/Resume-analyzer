@@ -18,7 +18,7 @@ Entry(root, font = 'arial 15', textvariable = user_take , bg = 'white').place(x=
 comp_pick = random.randint(1,3)
 if comp_pick == 1:
     comp_pick = 'rock'
-elif comp_pick ==2:
+elif comp_pick == 2:
     comp_pick = 'paper'
 else:
     comp_pick = 'scissors'
