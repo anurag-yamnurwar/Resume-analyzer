@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-Game
 #import library
-from tkinter import * 
+from tkinter import *
 import random
 # initialize window
 root = Tk()
