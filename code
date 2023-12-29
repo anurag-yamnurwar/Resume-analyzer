@@ -1,4 +1,4 @@
-#import library
+import library
 from tkinter import *
 import random
 # initialize window
