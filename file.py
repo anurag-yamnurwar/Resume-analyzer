@@ -1,7 +1,7 @@
 # import library
 from tkinter import *
 import random
-# initialize window
+# initialize windows
 root = Tk()
 root.geometry('400x400')
 root.resizable(0,0)
