@@ -1,2 +1,2 @@
-<h3>Rock-Paper-Scissors-Game</h3>
+<h1>Rock-Paper-Scissors-Game</h1>
 <br>
