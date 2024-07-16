@@ -1,6 +1,6 @@
 # import library
 from tkinter import *
-import random
+import random 
 # initialize windows
 root = Tk()
 root.geometry('400x400')
