@@ -1,3 +1,3 @@
-#Rock-Paper-Scissors-Game
+# Resume-Analyzer
 
 
