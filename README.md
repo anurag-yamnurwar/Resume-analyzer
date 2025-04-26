@@ -1,2 +1,2 @@
-# Resume-Analyzer
+# Resume-Analyze
 
